@@ -1,0 +1,45 @@
+table {
+    border: 5px solid black; 
+    padding: 20px 20px 20px 20px;
+    width: 500px;
+    height: 500px;
+}
+td {
+    border: 0px solid rgb(123, 185, 65);
+}
+.td-one {
+    border: 5px solid black;
+    background-color:green;
+    vertical-align: middle;
+}
+.first-square {
+    width: 50px; 
+    height: 50px; 
+    background: orange; 
+    margin: auto;
+    border: 5px solid black;
+}
+.td-second {
+    border: 5px solid black;
+    background-color:orange;
+    vertical-align: top;
+}
+.second-square {
+    width: 50px; 
+    height: 50px; 
+    background: rgb(117, 183, 221); 
+    margin: auto;
+    border: 5px solid black;
+}
+.td-third {
+    border: 5px solid black;
+    background-color:rgb(117, 183, 221);
+    vertical-align: bottom;
+}
+.third-square {
+    width: 50px; 
+    height: 50px; 
+    background: green; 
+    margin: 0;
+    border: 5px solid black;
+}
